@@ -1,3 +1,12 @@
+/********************************************************************
+ * Note:
+ *   This is a simple C++ library for image processing.
+ *   The purpose is not high performance, but to show how
+ *   the algorithm works through programming.
+ *   This library can only read in PGM/PPM format images.
+ *
+ ********************************************************************/
+
 #ifndef IMAGE_H
 #define IMAGE_H
 
