@@ -1,11 +1,8 @@
-/********************************************************************
- * Note:
- *   This is a simple C++ library for image processing.
- *   The purpose is not high performance, but to show how
- *   the algorithm works through programming.
- *   This library can only read in PGM/PPM format images.
- *
- ********************************************************************/
+
+/**********************************************************
+ * Image.cpp - the image library which implements
+ *             the member functions defined in Image.h
+ **********************************************************/
 
 #include "Image.h"
 #include <iostream>
