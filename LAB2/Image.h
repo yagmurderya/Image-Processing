@@ -1,14 +1,4 @@
 /********************************************************************
- The original copy of the code can be found at http://web.eecs.utk.edu/~mkarakay/courses_files/testfiles.zip
- and it is modified for ELM463/667
-
- * Image.h - header file of the Image library which defines
- *           a new class "Image" and the associated member functions
- *
- * Author: Hairong Qi, hqi@utk.edu, ECE, University of Tennessee
- *
- * Created: 02/05/02
- *
  * Note:
  *   This is a simple C++ library for image processing.
  *   The purpose is not high performance, but to show how
