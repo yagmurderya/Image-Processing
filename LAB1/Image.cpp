@@ -1,17 +1,3 @@
-/**********************************************************
- The original copy of the code can be found at http://web.eecs.utk.edu/~mkarakay/courses_files/testfiles.zip 
- and it is modified for ELM463/667
- 
- * Image.cpp - the image library which implements
- *             the member functions defined in Image.h
- *
- * Author: Hairong Qi, ECE, University of Tennessee
- *
- * Created: 02/05/02
- *
- * Copyright (C) hqi@utk.edu
- **********************************************************/
-
 #include "Image.h"
 #include <iostream>
 #include <iomanip>
