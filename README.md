@@ -11,10 +11,10 @@ functions are created with c++.
 ## LAB2
 1- Histogram equalization algorithm,
 
-2- Sharpening with Laplacian functions on c++.
+2- Sharpening with Laplacian functions in c++.
 
 ## LAB3
-2-D Fourier and Inverse Fourier Transform algorithm on c++.
+2-D Fourier and Inverse Fourier Transform algorithm in c++.
 
 ## LAB4
 1- Sharpening on spatial domain with Laplacian and Sobel.
@@ -26,4 +26,4 @@ functions are created with c++.
 - Otsu thresholding 
 - Local thresholding using moving averages 
  
-on Python with OpenCV and numpy libraries.
+in Python with OpenCV and numpy libraries.
