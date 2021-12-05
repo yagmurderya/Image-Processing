@@ -1,3 +1,8 @@
+/**********************************************************
+ * Image.cpp - the image library which implements
+ *             the member functions defined in Image.h
+ **********************************************************/
+
 #include "Image.h"
 #include <iostream>
 #include <iomanip>
