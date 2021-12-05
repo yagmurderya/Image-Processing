@@ -27,4 +27,4 @@ functions are created with c++.
 - Otsu thresholding 
 - Local thresholding using moving averages 
  
-on Python with OpenCV and numpy.
+on Python with OpenCV and numpy libraries.
