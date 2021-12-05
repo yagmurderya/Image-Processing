@@ -1,4 +1,3 @@
-# Image-Processing
 ## LAB1
 Image enhancement in spartial domain.
 - Negative Transformation
